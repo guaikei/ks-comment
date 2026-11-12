@@ -78,7 +78,7 @@ metadata:
     - "这个快手博主多少粉丝 → node scripts/kuaishou/post-cli.js --url 123456 --limit 0"
 ---
 
-# 📷 快手评论数据 · 功能列表 (Kuaishou Comment Data)
+# 📷 快手评论数据｜关键词搜索 · 评论内容 · 评论回复 · 互动数据 (Kuaishou Comment Data)
 
 给一个关键词或一条链接，拿回快手评论区数据整理所需的视频评论内容、评论回复、评论点赞与时间、公开作品和博主数据。不登录，不发布。结果是一份 JSON。
 
