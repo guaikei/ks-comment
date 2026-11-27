@@ -6,6 +6,11 @@ name: ks-comment
 description: "快手评论数据只读技能：关键词搜视频、博主作品与粉丝数据、视频评论，输出 JSON，不登录不发布。触发词：快手、Kuaishou、kwai、快手搜索、快手评论、快手博主。用户要查快手视频、评论、爆款选题、竞品监控、KOL 筛选或评论舆情时使用；抖音、小红书、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.1.3
+display_name: "快手评论数据｜关键词搜索·评论内容·评论回复·互动数据"
+display_name_en: "Kuaishou Comment"
+description_zh: "快手评论公开数据（只读、无需登录快手账号）：关键词搜视频、博主作品与粉丝数据、单条视频评论与评论回复、评论点赞与时间，全部输出结构化 JSON，可直接导入 Excel/BI 做评论区舆情、爆款选题与竞品分析。包月搜索≤30、作品≤50、评论≤60，按量单次最多 1 万条（超限返回 PLAN_LIMIT）"
+description_en: "Read-only Kuaishou public data: keyword video search, creator posts and fans, video comments and replies with like counts, all as structured JSON for comment sentiment, topic research and competitor analysis. Monthly quota: search 30 / posts 50 / comments 60; up to 10,000 rows per call."
+author: "新郑市怪奇信息技术工作室"
 metadata:
   openclaw:
     emoji: "📷"
